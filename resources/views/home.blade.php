@@ -1,4 +1,10 @@
-@extends('layout')
+@extends('layouts.app')
+
+@section('title')
+homepage
+
+@endsection
+
 @section('content')
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
 
