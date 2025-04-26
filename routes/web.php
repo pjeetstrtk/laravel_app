@@ -31,3 +31,4 @@ Route::get('/greeting', function () {
     return view('greeting', ['name' => 'Alex']);
 });
 
+
